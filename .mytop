@@ -1,0 +1,9 @@
+batchmode=0
+color=1
+delay=2
+idle=1
+header=1
+# long=120
+port=3306
+prompt=1
+# slow=10
